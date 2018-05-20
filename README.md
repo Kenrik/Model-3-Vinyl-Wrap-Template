@@ -9,3 +9,7 @@ If you are unfamiliar with Git you may also send your changes to me directly at 
 
 # Installation
 Installation instructions can be found [here](https://kenriko.com/pages/install) please contribute additional installation tips to this readme as needed. 
+
+# Purchase 
+If you do not have access to a vinyl plotter to use these templates you may purchase a pre-made kit from one of these contributing sources:
+[Project Creator Kenriko](https://www.amazon.com/s/&field-keywords=kenriko)
