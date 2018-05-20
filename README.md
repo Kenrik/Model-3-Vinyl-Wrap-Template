@@ -1,4 +1,5 @@
 # Model 3 Vinyl Wrap Template
+![Carbon Fiber](https://cdn.shopify.com/s/files/1/0058/4145/3114/products/IMG_2754_1024x1024@2x.jpg?v=1525407520)
 
 # License
 Please read the license file before using this template. This template is covered under GNU General Public License v3.0 and it is important that you understand the terms under which this template is governed and your responsibility to contribute changes back into the community. 
