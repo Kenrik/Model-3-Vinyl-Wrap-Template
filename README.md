@@ -15,7 +15,7 @@ It is highly recomended you use an automotive grade vinyl: Popular choices inclu
 
 # Purchase 
 If you do not have access to a vinyl plotter to use these templates you may purchase a pre-made kit from one of these contributing sources:
-[Project Creator Kenriko](https://www.amazon.com/s/field-keywords=kenriko)
+[Project Creator Kenriko](www.kenriko.com)
 
 ![Carbon Fiber](https://cdn.shopify.com/s/files/1/0058/4145/3114/products/IMG_2754_1024x1024@2x.jpg?v=1525407520)
 ![Matte Black](https://cdn.shopify.com/s/files/1/0058/4145/3114/products/2-2_8da14643-bbaf-4e1b-be49-1bb2c7c81bb1_1024x1024@2x.jpg?v=1525663248)
